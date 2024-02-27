@@ -1,0 +1,21 @@
+{  
+  "author": "Matthew Pancia",
+  "authorUsername": "mpancia",
+  "version": "1",
+  "name": "$name",
+  "appearance": "$type",
+  "colors": {
+    "background": "$base",
+    "backgroundSecondary": "#191724",
+    "text": "$text",
+    "selection": "$highlightMed",
+    "loader": "$love",
+    "red": "$love",
+    "orange": "$gold",
+    "yellow": "$rose",
+    "green": "$foam",
+    "blue": "$pine",
+    "purple": "$iris",
+    "magenta": "$love"
+  }
+}

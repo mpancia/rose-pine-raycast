@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for [Raycast](https://www.raycast.com/)</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,17 +13,28 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Install Raycast and enable its Pro features
+2. Clone this repository
+
+```sh
+git clone https://github.com/mpancia/rose-pine-raycast.git
+```
+3. ???
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+Rosé Pine:
+![Rosé Pine](https://private-user-images.githubusercontent.com/7557730/308042432-c93b4ef8-1b2a-445c-95b5-e7d56725f9d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMTAzMDcsIm5iZiI6MTcwOTAxMDAwNywicGF0aCI6Ii83NTU3NzMwLzMwODA0MjQzMi1jOTNiNGVmOC0xYjJhLTQ0NWMtOTViNS1lN2Q1NjcyNWY5ZDEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDIyNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAyMjdUMDUwMDA3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTE4ZGFlOWU3MTY1MDQzZWU5NTc3NmM5YWQzNjcwOTc5Zjc1MzhhOTJmN2NmYzcyYzdmMzhiYmE4YzMyYjc1NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.Cvod4oewgzrtw2EhmbscikDk7ft5j_26GPl-pCOMYKc)
+
+Rosé Pine Moon:
+![Rosé Pine Moon]()
+
+Rosé Pine Dawn:
+![Rosé Pine Dawn]()
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Matthew Pancia](https://github.com/mpancia)
 
 ## Contributing
 
@@ -34,14 +45,3 @@ Modify `template.json` using Rosé Pine variables, then build variants:
 ```sh
 npx @rose-pine/build@latest
 ```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include [existing categories](https://rosepinetheme.com/themes)
-    - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)

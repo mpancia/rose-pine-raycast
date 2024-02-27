@@ -1,0 +1,21 @@
+{  
+  "author": "Matthew Pancia",
+  "authorUsername": "mpancia",
+  "version": "1",
+  "name": "Rosé Pine Dawn",
+  "appearance": "light",
+  "colors": {
+    "background": "#faf4ed",
+    "backgroundSecondary": "#191724",
+    "text": "#575279",
+    "selection": "#dfdad9",
+    "loader": "#b4637a",
+    "red": "#b4637a",
+    "orange": "#ea9d34",
+    "yellow": "#d7827e",
+    "green": "#56949f",
+    "blue": "#286983",
+    "purple": "#907aa9",
+    "magenta": "#b4637a"
+  }
+}

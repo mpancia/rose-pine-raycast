@@ -1,0 +1,21 @@
+{  
+  "author": "Matthew Pancia",
+  "authorUsername": "mpancia",
+  "version": "1",
+  "name": "Rosé Pine Moon",
+  "appearance": "dark",
+  "colors": {
+    "background": "#232136",
+    "backgroundSecondary": "#191724",
+    "text": "#e0def4",
+    "selection": "#44415a",
+    "loader": "#eb6f92",
+    "red": "#eb6f92",
+    "orange": "#f6c177",
+    "yellow": "#ea9a97",
+    "green": "#9ccfd8",
+    "blue": "#3e8fb0",
+    "purple": "#c4a7e7",
+    "magenta": "#eb6f92"
+  }
+}

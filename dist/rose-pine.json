@@ -1,0 +1,21 @@
+{  
+  "author": "Matthew Pancia",
+  "authorUsername": "mpancia",
+  "version": "1",
+  "name": "Rosé Pine",
+  "appearance": "dark",
+  "colors": {
+    "background": "#191724",
+    "backgroundSecondary": "#191724",
+    "text": "#e0def4",
+    "selection": "#403d52",
+    "loader": "#eb6f92",
+    "red": "#eb6f92",
+    "orange": "#f6c177",
+    "yellow": "#ebbcba",
+    "green": "#9ccfd8",
+    "blue": "#31748f",
+    "purple": "#c4a7e7",
+    "magenta": "#eb6f92"
+  }
+}
